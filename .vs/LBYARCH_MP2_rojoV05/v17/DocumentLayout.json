@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{ABBF910A-CDFA-4345-AEDF-DEB7F0917F0D}|LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05.vcxproj|C:\\Users\\Von\\Documents\\LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ABBF910A-CDFA-4345-AEDF-DEB7F0917F0D}|LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05.vcxproj|solutionrelative:LBYARCH_MP2_rojoV05\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBF910A-CDFA-4345-AEDF-DEB7F0917F0D}|LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05.vcxproj|C:\\Users\\Von\\Documents\\LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05\\kernel_asm.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ABBF910A-CDFA-4345-AEDF-DEB7F0917F0D}|LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05.vcxproj|solutionrelative:LBYARCH_MP2_rojoV05\\kernel_asm.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBF910A-CDFA-4345-AEDF-DEB7F0917F0D}|LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05.vcxproj|C:\\Users\\Von\\Documents\\LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05\\kernel_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABBF910A-CDFA-4345-AEDF-DEB7F0917F0D}|LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05.vcxproj|solutionrelative:LBYARCH_MP2_rojoV05\\kernel_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +32,36 @@
               "RelativeDocumentMoniker": "LBYARCH_MP2_rojoV05\\main.c",
               "ToolTip": "C:\\Users\\Von\\Documents\\LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05\\main.c",
               "RelativeToolTip": "LBYARCH_MP2_rojoV05\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwFAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-11-22T14:36:06.118Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kernel_asm.asm",
+              "DocumentMoniker": "C:\\Users\\Von\\Documents\\LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05\\kernel_asm.asm",
+              "RelativeDocumentMoniker": "LBYARCH_MP2_rojoV05\\kernel_asm.asm",
+              "ToolTip": "C:\\Users\\Von\\Documents\\LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05\\kernel_asm.asm",
+              "RelativeToolTip": "LBYARCH_MP2_rojoV05\\kernel_asm.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-22T15:02:10.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kernel_c.c",
+              "DocumentMoniker": "C:\\Users\\Von\\Documents\\LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05\\kernel_c.c",
+              "RelativeDocumentMoniker": "LBYARCH_MP2_rojoV05\\kernel_c.c",
+              "ToolTip": "C:\\Users\\Von\\Documents\\LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05\\kernel_c.c",
+              "RelativeToolTip": "LBYARCH_MP2_rojoV05\\kernel_c.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-22T15:01:43.49Z",
               "EditorCaption": ""
             }
           ]

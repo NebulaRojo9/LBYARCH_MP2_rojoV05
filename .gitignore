@@ -1,0 +1,36 @@
+# Visual Studio and Project Specific Files
+##########################################
+
+# The .vs folder which contains user-specific settings and cache
+.vs/
+
+# Visual Studio Solution User Options
+*.suo
+
+# Build artifacts
+##################
+
+# Executables, object files, and other generated binaries
+*.exe
+*.dll
+*.pdb
+*.obj
+*.o
+*.out
+
+# Compiler/build logs and temporary files
+*.tlog
+*.idb
+*.ipch
+*.log
+
+# Debug and Release folders
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+x64/
+x86/
+
+# Other generated files
+*.enc

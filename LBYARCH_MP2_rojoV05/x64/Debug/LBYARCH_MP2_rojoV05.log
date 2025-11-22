@@ -1,2 +1,4 @@
 ﻿  main.c
+C:\Users\Von\Documents\LBYARCH_MP2_rojoV05\LBYARCH_MP2_rojoV05\main.c(19,22): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\Von\Documents\LBYARCH_MP2_rojoV05\LBYARCH_MP2_rojoV05\main.c(39,26): warning C4305: 'initializing': truncation from 'double' to 'const float'
   LBYARCH_MP2_rojoV05.vcxproj -> C:\Users\Von\Documents\LBYARCH_MP2_rojoV05\x64\Debug\LBYARCH_MP2_rojoV05.exe
