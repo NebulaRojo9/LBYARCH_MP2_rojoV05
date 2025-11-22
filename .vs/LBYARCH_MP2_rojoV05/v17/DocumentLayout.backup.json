@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Von\\Documents\\LBYARCH_MP2_rojoV05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABBF910A-CDFA-4345-AEDF-DEB7F0917F0D}|LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05.vcxproj|C:\\Users\\Von\\Documents\\LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABBF910A-CDFA-4345-AEDF-DEB7F0917F0D}|LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05.vcxproj|solutionrelative:LBYARCH_MP2_rojoV05\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Von\\Documents\\LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05\\main.c",
+              "RelativeDocumentMoniker": "LBYARCH_MP2_rojoV05\\main.c",
+              "ToolTip": "C:\\Users\\Von\\Documents\\LBYARCH_MP2_rojoV05\\LBYARCH_MP2_rojoV05\\main.c",
+              "RelativeToolTip": "LBYARCH_MP2_rojoV05\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-22T14:36:06.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
