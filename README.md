@@ -6,7 +6,7 @@ Euclidean distances:
 $Z[i] = \sqrt{(X_2[i] - X_1[i])^2 + (Y_2[i] - Y_1[i])^2}, 0 \le i \le 49$
 
 ## Comparative Analysis of C
-Assuming no other programs running that would delay the time performance.
+Assuming no other unnecessary programs running that would delay the time performance.
 |    Vector size *N*   | Memory Consumption   |   C ave. time (ms)   | x86-64 ave. time (ms)  |                       Analysis                              |
 | -------------------- | -------------------- | -------------------- | ---------------------- | ------------------------------------------------------------|
 |   $2^{20}$           |       24.00 MB       |   3.737984           |   3.324152             |       x86-64 kernel is 1.12 times FASTER than C kernel      |
