@@ -32,3 +32,12 @@ Usinh the algorithm provided above, comparative analysis shows consistency that 
 
 
 ## Video Compilation
+Youtube Video LBYARCH_MP2
+https://www.youtube.com/watch?v=YSyYjsbZoXw
+
+I forgot to include the configuration of my program files so are the things I used during the demo following the teachings of my instructor.
+<img width="1001" height="684" alt="image" src="https://github.com/user-attachments/assets/bc2a8842-9407-4e35-841b-163236c599e7" />
+<img width="1001" height="684" alt="image" src="https://github.com/user-attachments/assets/491bfe8b-b95f-4775-bb66-55e9ed638759" />
+<img width="1001" height="684" alt="image" src="https://github.com/user-attachments/assets/ceb47acd-84b5-4e38-9a54-03442079799a" />
+
+
